@@ -1,6 +1,8 @@
 import './App.css';
 import {useState} from 'react';
 
+// Tekijä: Samuli Pohjola
+
 function App() {
   const [weight, setWeight] = useState(89);
   const [bottles, setBottles] = useState(1);
